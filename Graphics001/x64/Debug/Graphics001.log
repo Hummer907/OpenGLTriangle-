@@ -1,0 +1,15 @@
+﻿  glad.c
+  Camera.cpp
+C:\Users\nursu\source\repos\OpenGLTriangle\Graphics001\Camera.h(6,9): fatal  error C1083: Cannot open include file: 'glm.hpp': No such file or directory
+  EBO.cpp
+  Main.cpp
+C:\Users\nursu\source\repos\OpenGLTriangle\Graphics001\Main.cpp(9,9): fatal  error C1083: Cannot open include file: 'glm.hpp': No such file or directory
+  shaderClass.cpp
+  stb.cpp
+C:\Users\nursu\source\repos\OpenGLTriangle\Graphics001\stb.cpp(2,10): fatal  error C1083: Cannot open include file: 'stb_image.h': No such file or directory
+  Texture.cpp
+C:\Users\nursu\source\repos\OpenGLTriangle\Graphics001\Texture.h(5,9): fatal  error C1083: Cannot open include file: 'stb_image.h': No such file or directory
+  VAO.cpp
+C:\Users\nursu\source\repos\OpenGLTriangle\Graphics001\VAO.cpp(13,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VBO.cpp
+  Generating Code...
